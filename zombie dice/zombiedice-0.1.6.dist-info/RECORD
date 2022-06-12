@@ -1,0 +1,15 @@
+zombiedice-0.1.6.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+zombiedice-0.1.6.dist-info/METADATA,sha256=nrnksirkZiryuHuXPBReWvPfHS1TFHVrD9oS5pg4qM4,6975
+zombiedice-0.1.6.dist-info/RECORD,,
+zombiedice-0.1.6.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+zombiedice-0.1.6.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+zombiedice-0.1.6.dist-info/top_level.txt,sha256=NeTZi4_L2AwWRnZosF0ekBe_o2MbvjS6HCusQegUEMk,11
+zombiedice/__init__.py,sha256=btNmEJuousUvF9bOmWPhMhemjcAxAV43GebJujIuFLs,30260
+zombiedice/__main__.py,sha256=6mUKWu-58YdL2jurXAKT3XNiexsHuKiDbPvHRdIVUi4,72
+zombiedice/__pycache__/__init__.cpython-39.pyc,,
+zombiedice/__pycache__/__main__.cpython-39.pyc,,
+zombiedice/__pycache__/examples.cpython-39.pyc,,
+zombiedice/examples.py,sha256=ii5nxUyxrhI7PPP1Gt1b0HpYd1Y0yMHUEHi1BwlS1Lw,8371
+zombiedice/imgTitle.png,sha256=1MSlzOtgJJSupb7U-Em_CmdRLXFKOGi9_31SfdhIonQ,20850
+zombiedice/imgZombieCheerleader.jpg,sha256=p3KcvQfD0mIEQ-VOqAhVPqYED0W6hYrBvlI_kHFeTM8,51077
+zombiedice/jquery-1.8.3.min.js,sha256=um7aeUWrjX5Xs0zFo90pL6Lkxgpc7Xkjbs8ang8MLTI,93637
